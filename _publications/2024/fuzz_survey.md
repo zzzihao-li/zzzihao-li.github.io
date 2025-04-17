@@ -1,5 +1,5 @@
 ---
-title:          "Large Language Models for Blockchain Security: A Systematic Literature Review"
+title:          "Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers"
 date:           2024-01-02 00:00:49 +0800
 selected:       false
 pub:            "IEEE/ACM International Conference on Software Engineering (ICSE)"
@@ -12,7 +12,7 @@ abstract: >-
   We provide a comprehensive review of current research in contract fuzzing, and conduct an in-depth empirical study to evaluate state-of-the-art contract fuzzers’ usability. 
 cover:          /assets/images/covers/2024/fuzz_survey.jpg
 authors:
-  - Zheyuan He
+  - Shuohan Wu
   - Zihao Li
   - Luyi Yan
   - Weimin Chen
