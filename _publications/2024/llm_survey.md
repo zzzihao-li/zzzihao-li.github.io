@@ -1,6 +1,6 @@
 ---
 title:          "Large Language Models for Blockchain Security: A Systematic Literature Review"
-date:           2024-01-01 00:00:01 +0800
+date:           2024-01-02 00:00:30 +0800
 selected:       false
 pub:            "arXiv"
 # pub_pre:        "Submitted to "
