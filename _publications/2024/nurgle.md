@@ -12,7 +12,7 @@ abstract: >-
   We unveil a novel attack surface, i.e., the state storage, in blockchains, and design the first Denial-of-Service attack targeting the state storage by strategically proliferating intermediate nodes within the state storage of Merkle Patricia Trie structure.
 cover:          /assets/images/covers/2024/nurgle.jpg
 authors:
-  - Zheyuan He
+  - Zheyuan He*
   - Zihao Li*
   - Ao Qiao
   - Xiapu Luo
