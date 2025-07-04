@@ -10,7 +10,7 @@ pub_date:       "2025"
 
 abstract: >-
   A tool designed to address overcharging issues on blockchain storage.
-cover:          /assets/images/covers/2025/maat.jpg
+cover:          /assets/images/covers/2025/maat.png
 authors:
   - Zheyuan He
   - Zihao Li#
