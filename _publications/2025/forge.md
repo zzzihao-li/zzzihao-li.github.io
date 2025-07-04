@@ -10,7 +10,7 @@ pub_date:       "2026"
 
 abstract: >-
   A LLM-driven automated approach for constructing smart contract vulnerability datasets.
-cover:          /assets/images/covers/2025/wasminfer.jpg
+cover:          /assets/images/covers/2025/forge.png
 authors:
   - Jiachi Chen
   - Yiming Shen
