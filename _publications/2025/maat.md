@@ -13,9 +13,9 @@ abstract: >-
 cover:          /assets/images/covers/2025/maat.jpg
 authors:
   - Zheyuan He
-  - Zihao Li
+  - Zihao Li#
   - Qiao Ao
-  - Jingwei Li
+  - Jingwei Li#
   - Feng Luo
   - Sen Yang
   - Gelei Deng
