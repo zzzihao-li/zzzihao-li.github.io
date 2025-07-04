@@ -51,11 +51,12 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
+- name: Best Practical Paper Award, awarded by Cybersecurity, 2025.
 - name: Distinguished Paper Awards, awarded by ACM Conference on Computer and Communications Security (CCS). 2024.
 - name: Best DeFi Papers Awards in 2023, awarded by ACM CCS Workshop on Decentralized Finance and Security, 2024.
 - name: Ethereum Foundation Academic Grant, awarded by Ethereum Foundation on blockchain security research, 2023.
 - name: Best Paper Nominee, awarded by 13th International Symposium on Empirical Software Engineering and Measurement (ESEM), 2019.
-- name: Best Paper on Blockchain, awarded by China Computer Federation (CCF) Technical Committee on Block Chain, 2018.
+- name: Best Paper on Blockchain, awarded by China Computer Federation (CCF) Technical Committee on Blockchain, 2018.
 - name: Best Paper Awards, awarded by IEEE International Conference on Computer Communications (INFOCOM), 2018.
 - name: Best Paper Awards, awarded by 13th International Conference on Information Security Practice and Experience (ISPEC), 2017.
 
