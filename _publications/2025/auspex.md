@@ -10,7 +10,7 @@ pub_date:       "2025"
 
 abstract: >-
   A tool that automatically detects inconsistency bugs within Ethereum's transaction fee mechanism by leveraging fuzzing technology.
-cover:          /assets/images/covers/2025/auspex.jpg
+cover:          /assets/images/covers/2025/auspex.png
 authors:
   - Zheyuan He
   - Zihao Li#
