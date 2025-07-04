@@ -10,7 +10,7 @@ pub_date:       "2025"
 
 abstract: >-
   A formal verification tool that verifies the soundness and completeness of free inputs with formal semantics for Polygon zkEVM.
-cover:          /assets/images/covers/2025/freever.jpg
+cover:          /assets/images/covers/2025/freever.png
 authors:
   - Xinghao Peng
   - Zhiyuan Sun
