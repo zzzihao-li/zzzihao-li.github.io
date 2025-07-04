@@ -13,15 +13,15 @@ abstract: >-
 cover:          /assets/images/covers/2025/auspex.jpg
 authors:
   - Zheyuan He
-  - Zihao Li
+  - Zihao Li#
   - Jiahao Luo
   - Feng Luo
   - Junhan Duan
-  - Jingwei Li
+  - Jingwei Li#
   - Shuwei Song
   - Xiapu Luo
   - Ting Chen
-  - Xiaosong Zhang
+  - Xiaosong Zhang#
 # links:
 #  Code: https://github.com/luost26/academic-homepage
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
