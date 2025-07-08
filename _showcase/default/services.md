@@ -9,10 +9,9 @@ date: 2024-01-12 00:01:00 +0800
     <hr />
     <h5>Technical Program Committee</h5>
     <ul>
-    <li>DeFi 2024</li>
-    <li>BlockSys 2024</li>
+    <li>DeFi 2024, 2025</li>
     <li>KDD 2024</li>
-    <li>BlockSys 2023</li>
+    <li>BlockSys 2023, 2024</li>
     <li>SecureComm 2023</li>
     </ul>
     <h5>Artifact Evaluation Committee</h5>
