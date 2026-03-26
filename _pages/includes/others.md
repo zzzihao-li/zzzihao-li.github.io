@@ -1,7 +1,7 @@
 <!-- # Services -->
 # 💻 Services
 ### Program/Track Chair
-- ICPADS 2026
+- IEEE ICPADS 2026
 
 ### Program Committee Member
 - ACM CCS 2026
