@@ -1,0 +1,13 @@
+# 🎖 Honors and Awards
+- *2025* Doctoral Dissertation Incentive Program, awarded by China Institute of Communications (CIC).
+- *2025* COMP PhD Thesis Outstanding Award, awarded by The Hong Kong Polytechnic University.
+- *2025* Best Practical Paper Award, awarded by Springer Cybersecurity.
+- *2025* Research Paper Incentive Program (Two Papers), awarded by Blockchain Technical Committee of Chinese Institute of Electronics (CIE).
+- *2024* Distinguished Paper Award, awarded by ACM Conference on Computer and Communications Security.
+- *2024* Best DeFi Paper Award 2023, awarded by ACM CCS Workshop on Decentralized Finance and Security.
+- *2023* Ethereum Foundation Academic Grant, awarded by Ethereum Foundation on blockchain security research.
+- *2020* Outstanding Graduate, awarded by University of Electronic Science and Technology of China.
+- *2019* Best Paper Nominee, awarded by International Symposium on Empirical Software Engineering and Measurement.
+- *2018* Best Paper Award, awarded by IEEE International Conference on Computer Communications.
+- *2018* Best Paper on Blockchain, awarded by China Computer Federation (CCF) Technical Committee on Blockchain.
+- *2017* Best Paper Award, awarded by International Conference on Information Security Practice and Experience.
