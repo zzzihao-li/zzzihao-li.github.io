@@ -1,6 +1,6 @@
 
 <!-- # Educations -->
 # 📖 Educations
-- *2024.01 - Present*, Ph.D Candidate, The Hong Kong Polytechnic University.
-- *2020.09 - 2023.06*, Master, University of Electronic Science and Technology of China.
-- *2016.09 - 2020.06*, Undergraduate, University of Electronic Science and Technology of China.
+- *2021 - 2025*, Ph.D, The Hong Kong Polytechnic University.
+- *2017 - 2020*, Master, University of Electronic Science and Technology of China.
+- *2013 - 2017*, Bachelor, University of Electronic Science and Technology of China.
