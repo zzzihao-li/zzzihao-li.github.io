@@ -3,7 +3,7 @@
 # 📝 Publications
 
 - ``NDSS 2026`` Light into Darkness: Demystifying Profit Strategies Throughout the MEV Bot Lifecycle \\
-**<u>F. Luo</u>**, Z. Li, W. Luo, Z. He, X. Luo, Z. Ma, S. Song, T. Chen \\
+F. Luo, **<u>Z. Li</u>**, W. Luo, Z. He, X. Luo, Z. Ma, S. Song, T. Chen \\
 The Network and Distributed System Security Symposium, 2026.
 
 - ``TSC 2026`` Mind the Service: What Crypto Wallets Aren't Telling You \\
