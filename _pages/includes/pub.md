@@ -2,6 +2,10 @@
 <!-- # Publications  -->
 # 📝 Publications
 
+- ``USENIX SEC 2026`` Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact \\
+Z. Shao, J. Zhang, **<u>Z. Li</u>**, D. Wu, C. Chen, Y. Shen, L. Bao, Y. Wang, J. Chen \\
+USENIX Security Symposium, 2026.
+
 - ``NDSS 2026`` Light into Darkness: Demystifying Profit Strategies Throughout the MEV Bot Lifecycle \\
 F. Luo, **<u>Z. Li</u>**, W. Luo, Z. He, X. Luo, Z. Ma, S. Song, T. Chen \\
 The Network and Distributed System Security Symposium, 2026.
