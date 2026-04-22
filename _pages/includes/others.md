@@ -1,9 +1,9 @@
 <!-- # Services -->
 # 💻 Services
-### Program/Track Chair
+### Conference Program/Track Chair
 - IEEE ICPADS 2026
 
-### Program Committee Member
+### Conference Program Committee Member
 - ACM CCS 2026
 
 ### Journal Reviewer
