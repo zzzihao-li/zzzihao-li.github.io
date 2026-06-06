@@ -2,6 +2,10 @@
 <!-- # Publications  -->
 # 📝 Publications
 
+- ``USENIX SEC 2026`` The Perils of Flexibility: Uncovering Application-Layer Vulnerabilities in Cosmos SDK Customization Points\\
+P. Ma, H. Ning, Z. Cao, **<u>Z. Li</u>**, X. Luo
+USENIX Security Symposium, 2026.
+
 - ``USENIX SEC 2026`` Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact \\
 Z. Shao, J. Zhang, **<u>Z. Li</u>**, D. Wu, C. Chen, Y. Shen, L. Bao, Y. Wang, J. Chen \\
 USENIX Security Symposium, 2026.
